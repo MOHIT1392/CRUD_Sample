@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: crudapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HP
+Implementation-Vendor-Id: in.mohit.springboot
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crudapi
+Created-By: Maven Integration for Eclipse
+Main-Class: in.mohits.springboot.crudapi.CrudapiApplication
+
